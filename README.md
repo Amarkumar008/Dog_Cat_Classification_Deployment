@@ -1,6 +1,6 @@
 # Dog or Cat
 
-[Play with the App](https://dogorcat.herokuapp.com/)
+[Dog & Cat Classification App](https://dogorcat.herokuapp.com/)
 
 A simple Flask App that can classify an image as Dog or Cat
 using a convolutional neural network model. I build this just
@@ -31,16 +31,8 @@ I
 * Bootstrap
 * Heroku
 
-
-### Credit
-
-Credit to this 2 repository I used to build this. Special
-credit to @LukaszMalucha for his help
-
-* https://github.com/LukaszMalucha/Cat-vs.-Dog-Classifier
-* https://github.com/mvmanh/dog-cat-classification
 ### Next Steps
-* Deploy with Docker
+* Deploy with Docker , AWS , GCP
 * More Deep Learning apps
+* Create login dashboard 
 
-Kevin DEGILA
