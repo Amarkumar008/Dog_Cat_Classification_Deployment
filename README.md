@@ -9,7 +9,7 @@ deploy a Deep learning model and have something i can send
 to friends so they can upload their images of their face and let my app
 insult them. 
 
-I
+
 <p align="center">
 
 <img src='static/img/home.png'>
